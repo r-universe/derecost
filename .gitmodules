@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "LOGAN"]
+	path = LOGAN
+	url = https://github.com/derecost/logan
+	shallow = true
+	registered = true
